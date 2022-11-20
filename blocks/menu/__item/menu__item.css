@@ -1,0 +1,8 @@
+.menu__item {
+    transition: 0.8s;
+}
+
+.menu__item:hover {
+    opacity: 0.5;
+    transform: scale(1.2);
+}

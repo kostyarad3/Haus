@@ -1,0 +1,9 @@
+.flavors__column {
+    margin-top: 82px;
+    list-style: none;
+    max-width: 382px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}

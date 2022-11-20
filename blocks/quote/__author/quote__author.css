@@ -1,0 +1,11 @@
+.quote__author {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 17px 0 10px;
+}

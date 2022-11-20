@@ -1,0 +1,8 @@
+.aperitifs {
+    max-width: 1320px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 59px 0 95px;
+    border-top: 1px solid #BDBDBD;
+    border-bottom: 1px solid #BDBDBD;
+}

@@ -1,0 +1,7 @@
+.footer__column {
+    display: flex;
+    flex-direction: column;
+}
+.footer__column:nth-child(1) {
+    flex-basis: 440px;
+}

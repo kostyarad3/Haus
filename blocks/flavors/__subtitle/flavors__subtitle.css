@@ -1,0 +1,12 @@
+.flavors__subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 0;
+    padding-top: 24px;
+}

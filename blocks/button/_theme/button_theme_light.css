@@ -1,0 +1,9 @@
+.button_theme_light {
+    border: 1px solid #FFF;
+    transition: 1s;
+}
+
+.button_theme_light:hover {
+    color: #FFF;
+    background-color: black;
+}

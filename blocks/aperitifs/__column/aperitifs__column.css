@@ -1,0 +1,21 @@
+.aperitifs__column {
+    padding: 0;
+    margin: 0;
+}
+
+.aperitifs__column:first-child {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 80px;
+    max-width: 450px;
+}
+
+.aperitifs__column:last-child {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    max-width: 548px;
+    padding-top: 5px;
+}

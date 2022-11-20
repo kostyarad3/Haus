@@ -1,0 +1,6 @@
+.mood {
+    max-width: 100%;
+    background-image: url(../../images/haus-on-table.png);
+    background-size: cover;
+    padding: 60px;
+}

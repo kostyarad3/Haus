@@ -1,0 +1,6 @@
+.ingredients__column {
+    max-width: 652px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

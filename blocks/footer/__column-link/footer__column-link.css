@@ -1,0 +1,15 @@
+.footer__column-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    transition: 0.7s;
+}
+
+.footer__column-link:hover {
+    color: #fff;
+}

@@ -1,0 +1,15 @@
+.button {
+    background-color: #fff;
+    width: 180px;
+    height: 52px;
+    padding: 18px 52px 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    border: none;
+}
